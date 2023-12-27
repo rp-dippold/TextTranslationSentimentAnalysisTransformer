@@ -18,7 +18,7 @@ Enter the following commands in a bash terminal:
 7. `python -m ipykernel install --user --name transformer --display-name "transformer"`
 
 ### Start a Jupyter Notebook
-1. Navigate to a project's folder.
+1. Navigate to the project's folder.
 2. Start the notebook by entering `jupyter-notebook` into the bash terminal.
 3. Copy one of the displayed URLs, e.g. 'http://127.0.0.1:8888/?token=78c...' in a browser tab.
 4. Select the notebook `project.ipynb` in your browser.
